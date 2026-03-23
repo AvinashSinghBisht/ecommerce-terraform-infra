@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"resource_group","Source":"../../modules/rg","Dir":"../../modules/rg"},{"Key":"storage_account","Source":"../../modules/storage_account","Dir":"../../modules/storage_account"}]}
