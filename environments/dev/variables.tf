@@ -1,8 +1,12 @@
-variable "rg_name" {}
-variable "rg_location" {}
+variable "rgs" {
+    type = map(any)
+}
 
 //Below variable for Storage account
-variable "sa_name" {}
-variable "sa_location" {}
+variable "storage_accounts" {
+    type = map(any)
+}
+
+
 
 
