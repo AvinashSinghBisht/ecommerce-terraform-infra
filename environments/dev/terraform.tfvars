@@ -13,7 +13,6 @@ rgs = {
     }    
 }
 
-
 // Below are values for Storage account
 storage_accounts = {
   sa1 = {
